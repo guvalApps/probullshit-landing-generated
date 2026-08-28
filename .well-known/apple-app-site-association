@@ -1,0 +1,37 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "2Y2HS87GRL.com.guvalapps.probullshit",
+          "2Y2HS87GRL.com.guvalapps.probullshit.preview",
+          "2Y2HS87GRL.com.guvalapps.probullshit.dev"
+        ],
+        "components": [
+          {
+            "/": "/.well-known/*",
+            "exclude": true,
+            "comment": "Keep Apple/Google verification files in the browser"
+          },
+          {
+            "/": "*",
+            "comment": "Open Pro Bullshit for any other path on this host"
+          }
+        ]
+      },
+      {
+        "appID": "2Y2HS87GRL.com.guvalapps.probullshit",
+        "paths": ["NOT /.well-known/*", "*"]
+      },
+      {
+        "appID": "2Y2HS87GRL.com.guvalapps.probullshit.preview",
+        "paths": ["NOT /.well-known/*", "*"]
+      },
+      {
+        "appID": "2Y2HS87GRL.com.guvalapps.probullshit.dev",
+        "paths": ["NOT /.well-known/*", "*"]
+      }
+    ]
+  }
+}
