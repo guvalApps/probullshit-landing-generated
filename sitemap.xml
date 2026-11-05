@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://probullshit.guvalapps.com</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com" />
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/fr/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com" />
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/terms-of-use</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/terms-of-use" />
@@ -43,7 +43,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/fr/conditions-generales-d-utilisation</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/terms-of-use" />
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/privacy-policy</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/privacy-policy" />
@@ -69,7 +69,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/fr/politique-de-confidentialite</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/privacy-policy" />
@@ -82,7 +82,7 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/legal-notice</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/legal-notice" />
@@ -95,12 +95,38 @@
   </url>
   <url>
     <loc>https://probullshit.guvalapps.com/fr/mentions-legales</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/legal-notice" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://probullshit.guvalapps.com/fr/mentions-legales" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://probullshit.guvalapps.com/legal-notice" />
+    <image:image>
+      <image:loc>https://probullshit.guvalapps.com/og-image.png</image:loc>
+      <image:title>Pro Bullshit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://probullshit.guvalapps.com/contact-and-support</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/contact-and-support" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://probullshit.guvalapps.com/fr/contact-et-support" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://probullshit.guvalapps.com/contact-and-support" />
+    <image:image>
+      <image:loc>https://probullshit.guvalapps.com/og-image.png</image:loc>
+      <image:title>Pro Bullshit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://probullshit.guvalapps.com/fr/contact-et-support</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://probullshit.guvalapps.com/contact-and-support" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://probullshit.guvalapps.com/fr/contact-et-support" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://probullshit.guvalapps.com/contact-and-support" />
     <image:image>
       <image:loc>https://probullshit.guvalapps.com/og-image.png</image:loc>
       <image:title>Pro Bullshit</image:title>
